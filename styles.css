@@ -1,0 +1,20 @@
+body {
+    background-color: powderblue;
+    background-image: url("http://www.svj1.com/COQ_ScopeCreep6W.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: 60%
+
+  }
+
+.box {
+
+    width: 150px;
+    border: 2px ridge white;
+    background-color: lightseagreen;
+    padding: .5rem;
+    font: small-caps bold 1.2rem sans-serif;
+    text-align: center;
+}
+
